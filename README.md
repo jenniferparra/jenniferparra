@@ -1,6 +1,6 @@
 👋 Hi, I’m Jennifer Parra
 
-I'm a front-end junior developer and also a psychology student. You might wonder what do they have in common, I think the sky is the limit. 
+I'm a front-end junior developer and also a psychologist. You might wonder what do they have in common, I think the sky is the limit. 
 
 I like playing basketball and exercising, reading and doing puzzles. I love listening to music, most of my day goes by with an accompanying song.
 
